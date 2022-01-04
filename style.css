@@ -1,0 +1,22 @@
+body{
+    font-family: 'Pushster', cursive;
+}
+h1{
+    color:blue
+}
+h2{
+    font-size: 60px;
+    color: crimson;
+}
+.name{
+    color: darkgreen;
+}
+section{
+    display:flex;
+}
+.main{
+    width: 50%;
+}
+.main img{
+    width: 80%;
+}
